@@ -1,0 +1,21 @@
+.header{
+    border-bottom: solid 5px black;
+    text-align: center;
+    height: 60px;
+}
+.onpageanchors{
+    position:absolute;
+    height: 75px;
+    left: 5px;
+    top: 5px;
+    padding-right: 5px;
+    border-right: solid 5px black;
+}
+.linkpropage{
+    position:absolute;
+    height: 75px;
+    top: 5px;
+    right: 5px;
+    padding-left: 5px;
+    border-left: solid 5px black
+}
